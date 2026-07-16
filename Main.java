@@ -20,6 +20,12 @@ public class CharCount
 			System.out.println("sum method executed written by developer-2");
 			System.out.println("this line writtel by developer-1");
 		}
+		public void sub(){
+			int c=5;
+			int d=2;
+			int e= c-d;
+			System.out.println(e);
+		}
 
 	}
 }
