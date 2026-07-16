@@ -17,6 +17,7 @@ public class CharCount
 			int b=20;
 			int c= a+b;
 			System.out.println(c);
+			System.out.println("this line writtel by developer-1");
 		}
 
 	}
