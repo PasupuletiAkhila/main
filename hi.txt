@@ -1,3 +1,0 @@
-Hi Guys, welcome to GitHub tutorial....
-
-we checking how to send the edited file to new repo
