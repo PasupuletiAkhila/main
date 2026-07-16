@@ -7,6 +7,7 @@ public class CharCount
 	    System.out.println(" welcome to github!! ");
 		System.out.println(" bye guys ");
 		System.out.println(" added line in github ");
+		System.out.println(" line features/methods2");
 
 	}
 }
