@@ -26,6 +26,12 @@ public class CharCount
 			int e= c-d;
 			System.out.println(e);
 		}
+		public void div(){
+			int c=5;
+			int d=2;
+			int e= c/d;
+			System.out.println(e);
+		}
 
 	}
 }
