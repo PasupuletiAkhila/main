@@ -8,5 +8,9 @@ public class CharCount
 		System.out.println(" bye guys ");
 		System.out.println(" added line in github ");
 
+		public void display(){
+			System.out.println("Void Display....!");
+		}
+
 	}
 }
