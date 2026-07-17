@@ -12,6 +12,5 @@ public class CharCount
 			System.out.println(a+b);
 			System.out.println("Sum method executed!!!");
 		}
-
 	}
 }
