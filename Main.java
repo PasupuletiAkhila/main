@@ -9,7 +9,7 @@ public class CharCount
 			int a=10;
 			int b=5;
 			System.out.println(a-b);
-			System.out.println("Sub method executed!!");
+			System.out.println("Subtraction method executed!!");
 		}
 
 		public void sum(){
