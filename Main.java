@@ -4,10 +4,12 @@ public class CharCount
 {
 	public static void main(String[] args) {
 	    
-	    System.out.println(" welcome to github!! ");
-		System.out.println(" bye guys ");
-		System.out.println(" added line in github ");
-		System.out.println(" line features/methods2");
+	    public void sub(){
+			int a=10;
+			int b=5;
+			System.out.println(a-b);
+			System.out.println("Sub method executed!!");
+		}
 
 	}
 }
